@@ -2,7 +2,7 @@
 Modded version of something by me and @UltraDasher965
 
 # Credits
-UltraDasher965 - Bytebeats<br>
+UltraDasher965 - Some bytebeats<br>
 Wipet - Original creator of this code
 
 # PSA
